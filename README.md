@@ -1,2 +1,2 @@
 # BLOG
-博客
+博客请查看Issues
